@@ -33,4 +33,4 @@ checkPermission(..) // check, "проверяет" разрешение,возв
 ###  <a name="variable-declaration">2. Объявление переменных</a>
 
 
-![Альтернативный текст](C:\Users\spb-a\WHS\JavaScript_Style_Guide_kastykina\img.jpg)
+![Шпаргалка с правилами синтаксиса](/img.jpg)
